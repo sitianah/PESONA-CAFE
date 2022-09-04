@@ -1,0 +1,87 @@
+.card-box {
+    height: 100vh;
+    display: flex;
+    justify-content:center;
+    padding-top: 10rem;
+    padding-bottom: 10rem;
+
+}
+.foot{
+    width: 100%;
+    text-align: center;
+    padding: 5rem;
+    font-size: 20px;
+    background: rgb(51, 153, 105);
+}
+
+.garis{
+    height: 3px;
+    margin-left: 20%;
+    margin-right: 20%;
+    background: red;
+}
+
+.xz{
+    background-image: url('pelaminan.jpg');
+    width: 100%;
+    height: 100vh;
+}
+
+.bgs{
+    position: relative;
+    top: 0;
+    left: 40;
+}
+
+.d-flexs{
+    display: flexS;
+    width: 100%;
+    position: relative;
+}
+
+.d-flexs img{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.titles{
+    text-align: center;
+    position: absolute;
+    z-index: 2;
+    top: 40%;
+    left:28%;
+    color: rgb(145, 40, 40);
+}
+
+.xz{
+    background-image: url('picture/pelaminan.jpg');
+    width: 100%;
+    height: 100vh;
+}
+
+.bgs{
+    position: relative;
+    top: 0;
+    left: 40;
+}
+
+.d-flexs{
+    display: block;
+    width: 100%;
+    position: relative;
+}
+
+.d-flexs img{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.titles{
+    text-align: center;
+    position: relative;
+    z-index: 2;
+    top: 50%;
+    left: 0%;
+    color: rgb(112, 15, 80);
+}
+
